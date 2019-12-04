@@ -22,7 +22,7 @@ To create a development build:
 npm run build-dev
 ```
 
-## Running
+## Running Demo
 
 ```sh
 npm run start:dev
