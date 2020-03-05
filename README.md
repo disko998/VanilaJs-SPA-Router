@@ -23,7 +23,3 @@ npm run build-dev
 ```sh
 npm run start:dev
 ```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
